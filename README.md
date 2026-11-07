@@ -1,9 +1,9 @@
-# React TypeScript Starter Pack
+# Nice Gadgets — Phone Catalog
 
-To use this template click `Use this template`
+A responsive catalog of phones, tablets and accessories built with React and TypeScript. Browse products, view details, and manage a cart and favorites.
 
-### Available Scripts
+- [DEMO LINK](https://droopy-bit.github.io/phone-catalog/)
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+## Tech Stack
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+React · TypeScript · Vite · React Router · SCSS Modules
