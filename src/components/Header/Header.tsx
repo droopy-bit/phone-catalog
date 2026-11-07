@@ -24,7 +24,7 @@ export const Header = () => {
     <header className={styles.header}>
       <div className={styles.left}>
         <NavLink to="/" end className={styles.logo}>
-          <img src="img/logo.svg" alt="Nice Gadgets" />
+          <img src={getAssetUrl('img/logo.svg')} alt="Nice Gadgets" />
         </NavLink>
 
         <nav className={styles.nav}>
